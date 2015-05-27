@@ -210,3 +210,9 @@ var d=!200; // d=false; 数据类型转换
 图片使用inline-block  不知道为什么
 
 C:\Users\zhoubing\AppData\Local\Microsoft\VisualStudio\11.0\Extensions\qjpjrjgw.1zi
+
+Git warning push.default is unset
+http://blog.csdn.net/exlsunshine/article/details/18988531
+
+port 443: Timed out
+http://blog.csdn.net/tingyuanss/article/details/43559979
