@@ -444,7 +444,8 @@ ff 插件
 
 无法使用
 
-
+closest()
+http://www.w3school.com.cn/jquery/traversing_closest.asp
 
 webstrom keymap completion 设置代码提示快捷键
 http://my.oschina.net/u/141149/blog/311288
