@@ -74,4 +74,8 @@ git配置：
 File -> settings -> Editor -> github，进去改github的账户，如果没有git则不需要.
 插件安装：
 File ->plugins，然后就选择给力的插件们再安装.(“css-X-fire”插件,用于当使用firebug修改css属性时，编辑器内的css代码也会发生变化。）
+
+webstrom  inspections duplicated jquery / typo / missing font/ unused
+
+
 以后更新
