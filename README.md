@@ -449,3 +449,62 @@ http://www.w3school.com.cn/jquery/traversing_closest.asp
 
 webstrom keymap completion 设置代码提示快捷键
 http://my.oschina.net/u/141149/blog/311288
+
+
+transform-origin 有待研究
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- 针对移动端,页面的宽度强制去适应设备的宽度,缩放比例默认为1 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+-ms-text-size-adjust: none;
+    /* 设置屏幕在旋转的时候文字大小不要发生改变 */
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -o-text-size-adjust: none;
+
+当一个东西往上走的时候建议设置bottom  定位元素
+bottom: 0%;  一定是和父元素底对齐的
+bottom: 100%;  父元素顶部对齐
+
+http://www.17sucai.com/preview/1/2014-12-
+
+23/ScatteredPolaroidsGallery/index.html  超炫的散列画廊特效
+
+
+http://www.superslide2.com/index.html  jquery 插件
+
+sublime text settings
+
+{
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai 
+
+Bright.tmTheme",
+	"draw_centered": false,
+	"ensure_newline_at_eof_on_save": true,
+	"fold_buttons": true,
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"scroll_past_end": true,
+	"spell_check": false,
+	"tab_completion": true,
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}
+
+
+sublime text 3065 http://www.52pojie.cn/thread-290585-1-1.html
+
+SublimeCodeIntel https://github.com/SublimeCodeIntel/SublimeCodeIntel
+
+webstrom  inspections duplicated jquery / typo / missing font/ unused
