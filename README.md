@@ -508,3 +508,5 @@ sublime text 3065 http://www.52pojie.cn/thread-290585-1-1.html
 SublimeCodeIntel https://github.com/SublimeCodeIntel/SublimeCodeIntel
 
 webstrom  inspections duplicated jquery / typo / missing font/ unused
+
+http://sentsin.com/layui/laypage/ 分页控件
