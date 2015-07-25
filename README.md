@@ -4,6 +4,8 @@ https://github.com/icemanZB/Project
 
 http://www.cnblogs.com/foreveryt/p/4077380.html 入门
 
+http://blog.csdn.net/xsckernel/article/details/9015367   git push 的问题 git clone git@github.com:icemanZB/Project.git
+
 http://gitbeijing.com/
 
 客户端 添加项目三种方式(点击+号)
