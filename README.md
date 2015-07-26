@@ -8,6 +8,12 @@ http://blog.csdn.net/xsckernel/article/details/9015367   git push 的问题 git 
 
 http://gitbeijing.com/
 
+http://blog.csdn.net/ethan_xue/article/details/7749639
+
+http://blog.csdn.net/lancees/article/details/8534422
+
+http://blog.csdn.net/suirosu/article/details/39117543   tortoiseGit
+
 客户端 添加项目三种方式(点击+号)
 
 	add 输入路径添加本地项目
