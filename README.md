@@ -99,7 +99,7 @@ user
 	"trim_trailing_white_space_on_save": true
 }
 
-
+http://scientia.sinaapp.com/sublime-text-%E8%87%AA%E5%AE%9A%E4%B9%89%E9%A2%9C%E8%89%B2%E4%B8%BB%E9%A2%98/ 配色方案
 
 a 标签加背景 需要转 display:inline-block/block; 并且给宽高，才能看到效果
 否则默认内容撑开高度宽度,导致图片显示不全，如果没有内容那么就不会显示任何东西
