@@ -75,11 +75,14 @@ user
 
 {
 	"caret_style": "smooth",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"draw_centered": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fold_buttons": true,
-	"font_size": 12,
+	"font_face": "Source Code Pro",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -89,12 +92,13 @@ user
 	"scroll_past_end": true,
 	"spell_check": false,
 	"tab_completion": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true
 }
+
 
 
 a 标签加背景 需要转 display:inline-block/block; 并且给宽高，才能看到效果
