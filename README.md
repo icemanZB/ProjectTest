@@ -14,6 +14,14 @@ http://blog.csdn.net/lancees/article/details/8534422
 
 http://blog.csdn.net/suirosu/article/details/39117543   tortoiseGit
 
+https://segmentfault.com/a/1190000002645623  git-ssh 配置和使用
+
+http://www.cnblogs.com/meshinestar/p/3994822.html  github ssh proxy协议代理配置
+
+https://segmentfault.com/q/1010000000420475 git 代理
+
+https://wuyuans.com/2012/05/github-simple-tutorial/#toc-4 git使用教程含 ssh
+
 客户端 添加项目三种方式(点击+号)
 
 	add 输入路径添加本地项目
